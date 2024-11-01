@@ -1,6 +1,14 @@
 let timer;
 const loader = document.getElementsByClassName('loader')[0];
 
+timer = setTimeout(() => {
+    if (loader.classList.contains('lag')) {
+        loader.classList.remove('lag');
+    }
+    document.getElementById('loadingScreen').style.display = 'none';
+    document.getElementById('mainContent').style.display = 'block';
+}, 10000);
+
 document.addEventListener('click', ()=>{
     clearTimeout(timer);
     console.log('DEBOUNCING',10000);
