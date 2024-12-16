@@ -8,4 +8,4 @@ Additionally, a debounce function is implemented to reset the loading timer when
 
 This survey was developed using **HTML, CSS, and Javascript**, and all user responses are automatically saved into a Google Sheet via **Sheet Monkey**, a service that allows form data to be submitted directly to a spreadsheet.
 
-This experiment was designed to generate visuals, which can be found in another [repository](https://github.com/jewel-chin/generative-art). This survey can be accessed [here](https://jewel-chin.github.io/survey-experiment/).
+This experiment was designed to generate visuals, which can be found in another [repository](https://github.com/jewel-chin/emotional-visualisation). This survey can be accessed [here](https://jewel-chin.github.io/survey-experiment/).
