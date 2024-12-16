@@ -6,4 +6,6 @@ In this experimental survey, users answer a series of questions while experienci
 
 Additionally, a debounce function is implemented to reset the loading timer whenever the page is clicked. This may cause the user to become stuck on a loading page, further amplifying the sense of delay.
 
+This survey was developed using **HTML, CSS**, and all user responses are automatically saved into a Google Sheet via **Sheet Monkey**, a service that allows form data to be submitted directly to a spreadsheet.
+
 This experiment was designed to generate visuals, which can be found in another [repository](https://github.com/jewel-chin/generative-art). This survey can be accessed [here](jewel-chin.github.io/survey-experiment/).
